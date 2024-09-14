@@ -1,0 +1,4 @@
+.venv
+.idx
+.vscode
+.devserver.sh
